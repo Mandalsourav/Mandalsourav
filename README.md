@@ -9,7 +9,7 @@
 
 <h1 style="margin-bottom: 2px;">Sourav Mandal</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38bdf8&center=true&vCenter=true&width=520&lines=Java+Developer;Data+Structures+%26+Algorithms;Spring+Boot+%7C+REST+APIs;Final+Year+B.Tech+%40+SNU" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38bdf8&center=true&vCenter=true&width=520&lines=Java+Developer;Data+Structures+%26+Algorithms;Spring+Boot+%7C+REST+APIs;" alt="Typing Animation" />
 
 <br>
 
