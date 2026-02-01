@@ -1,7 +1,10 @@
 <div align="center">
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/157207474?v=4" width="110" style="border-radius: 50%; border: 3px solid #e2e8f0;" />
+<!-- <img src="https://avatars.githubusercontent.com/u/157207474?v=4" width="110" style="border-radius: 50%; border: 3px solid #e2e8f0;" /> -->
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="Code Discipline Banner" style="width: 100%; height: 380px; object-fit: cover;" />
+</div>
 
 <h1 style="margin-bottom: 2px;">Sourav Mandal</h1>
 
@@ -15,7 +18,7 @@
 &nbsp;
 <a href="https://github.com/Mandalsourav"><img src="https://img.shields.io/badge/GitHub-Mandalsourav-24292e?style=flat-round&logo=github&logoColor=white&labelColor=24292e&color=24292e" /></a>
 
-<br><br>
+<br>
 
 </div>
 
@@ -78,7 +81,7 @@ Participating in a 6-week program focused on applying **Generative AI** to real 
 ---
 
 ### 🇮🇳 Gen AI for Data Science — JuSence Technology Pvt. Ltd., Jadavpur
-**Training Internship** `Jul – Sep 2024`
+**Training Internship** `Jul 2025 – Sep 2025`
 
 Completed a 60-day program combining **Gen AI with Data Science fundamentals**. Hands-on work in data visualization, structuring, and formatting — applied directly within real-world applications.
 
