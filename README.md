@@ -3,7 +3,8 @@
 
 <!-- <img src="https://avatars.githubusercontent.com/u/157207474?v=4" width="110" style="border-radius: 50%; border: 3px solid #e2e8f0;" /> -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="Code Discipline Banner" style="width: 100%; height: 380px; object-fit: cover;" />
+  <!-- <img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="Code Discipline Banner" style="width: 100%; height: 380px; object-fit: cover;" /> -->
+  <img src="/images/better-code.jpg" alt="Code Discipline Banner" style="width: 100%; height: 380px; object-fit: cover;" />
 </div>
 
 <h1 style="margin-bottom: 2px;">Sourav Mandal</h1>
