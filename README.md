@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/sourav-mandal-0130a3255/"><img src="https://img.shields.io/badge/LinkedIn-Sourav Mandal-0A66C2?style=flat-round&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.linkedin.com/in/sourav-mandal-0130a3255/"><img src="https://img.shields.io/badge/LinkedIn-souravmandal-0A66C2?style=flat-round&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
 &nbsp;
 <a href="https://leetcode.com/u/sourav2122/"><img src="https://img.shields.io/badge/LeetCode-sourav2122-FFA500?style=flat-round&logo=leetcode&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 &nbsp;
