@@ -43,28 +43,28 @@ Actively seeking entry-level software developer opportunities.
 ## Skills
 
 #### Core Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 #### Backend & Web
-<img src="https://img.shields.io/badge/Spring+Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST+APIs-FF6334?style=for-the-badge&logoColor=white" />
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTAPIs-FF6334?style=for-the-badge&logoColor=white)
 
 #### Database
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Specialized Areas
-<img src="https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-1E3A5F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DBMS-2E4057?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gen+AI-7C3AED?style=for-the-badge&logoColor=white" />
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-1E3A5F?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-2E4057?style=for-the-badge&logoColor=white)
+![Gen AI](https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge&logoColor=white)
 
 #### Tools & Workflow
-<img src="https://img.shields.io/badge/VS+Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2C2C?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6334?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2C2C?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6334?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
