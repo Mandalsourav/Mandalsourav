@@ -90,7 +90,6 @@ Completed a 60-day program combining **Gen AI with Data Science fundamentals**. 
 
 | Project | What It Does |
 |:---|:---|
-| [**SmartInvoiceGenerator**](https://github.com/Mandalsourav/SmartInvoiceGenerator) | Generates professional invoices with custom fields and export capabilities |
 | [**HabitTracker**](https://github.com/Mandalsourav/HabitTacker) | A JavaScript app for logging and tracking daily habits |
 | [**SmartCart Invoice**](https://github.com/Mandalsourav/-SmartCart-Invoice) | Cart-to-invoice system for product billing and receipt generation |
 | [**HTML Portfolio**](https://github.com/Mandalsourav/html-portfolio) | A clean, responsive personal portfolio built with HTML & CSS |
